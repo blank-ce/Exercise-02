@@ -1,0 +1,25 @@
+.Logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+.flexbox {
+    display: flex;
+    height: 130vh;
+    width: 97vw;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.Featured{
+    max-width: 100%;
+    height: auto;
+}
+
+.Picture {
+    max-width: 100%;
+    height: auto;
+}
+
